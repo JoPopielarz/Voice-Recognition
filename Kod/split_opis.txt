@@ -1,0 +1,7 @@
+/* split */
+
+Kod do wczytania całych sygnałów i plików tekstowych, wycinający fragmenty ze
+słowami za pośrednictwem nadanych 'labels' w AudaCity. 
+
+Kod: Kasia
+Wczytanie i eksport danych: Patrycja
